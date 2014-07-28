@@ -1,0 +1,7 @@
+C:\DevRepo\DevRepo\DevConsole\bin\Debug\DevConsole.exe.config
+C:\Users\user\Downloads\DevRepo\DevRepo\DevConsole\obj\Debug\DevConsole.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\DevRepo\DevRepo\DevConsole\bin\Debug\DevConsole.exe.config
+C:\Users\user\Downloads\DevRepo\DevRepo\DevConsole\bin\Debug\DevConsole.exe
+C:\Users\user\Downloads\DevRepo\DevRepo\DevConsole\bin\Debug\DevConsole.pdb
+C:\Users\user\Downloads\DevRepo\DevRepo\DevConsole\obj\Debug\DevConsole.exe
+C:\Users\user\Downloads\DevRepo\DevRepo\DevConsole\obj\Debug\DevConsole.pdb

@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DevConsole/BinaryTreeImp.cs">
+    <Files>
+      <File FileName="DevConsole/TreeUtil.cs" Line="1" Column="1" />
+      <File FileName="DevConsole/StringUtils.cs" Line="1" Column="1" />
+      <File FileName="DevConsole/Program.cs" Line="1" Column="1" />
+      <File FileName="DevConsole/BinaryTreeImp.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
